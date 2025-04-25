@@ -105,7 +105,3 @@ A simple .NET Core Web API for managing tasks with JWT authentication.
 - CreatedAt
 - TaskId (FK)
 - UserId (FK)
-
-## License
-
-MIT 
